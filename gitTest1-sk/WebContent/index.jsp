@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>home</title>
 </head>
 <body>
-share project test
+share project test2
 </body>
 </html>
